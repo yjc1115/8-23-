@@ -9,6 +9,9 @@
 <body>
 회원가입 폼을 복붙 할꺼에요!!!<br>
 
+
+<a href = "http://localhost:8080/bab/register.jsp?wUserID=%E3%84%B9%E3%84%B4&wUserPW=fd&wUserPWConfirm=fd&wUserName=fd&wUserGender=1&wUserCellPhone=fd&wUserEmail=yjc1115%40naver.com&wRestAddress=&x=53&y=28">get으로 보냄 </a>
+
        <center>
     <form action="register.jsp" method="post" name="twin">
         <table width="800">
